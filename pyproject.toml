@@ -2,7 +2,7 @@
 name = "fastapi-tutorial"
 version = "0.1.0"
 description = ""
-authors = ["yusuke <ritchie.deep.purple@gmail.com>"]
+authors = ["yusuke <###############@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
